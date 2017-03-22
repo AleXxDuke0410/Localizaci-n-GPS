@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Localizacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="parar_actualizaciones">Parar actualizaciones</string>
+    <string name="iniciar_actualizaciones">Iniciar actualizaciones</string>
+</resources>
